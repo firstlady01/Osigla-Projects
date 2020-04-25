@@ -1,0 +1,65 @@
+.header{
+align-content: center;
+text-align: center;
+}
+span{font-weight: lighter;}
+.a{
+    text-decoration-color: wheat;
+    font: caption;
+    margin-bottom: 0px;
+    font-weight: 400;
+    font-size: 20px;
+    color: hsl(229, 6%, 66%);
+}
+.b{
+    margin-top: -15px;
+}
+.c{
+    margin-top: -13px;
+    color: hsl(229, 6%, 66%);
+}
+div{
+    border-radius: 5px;
+    height:200px;
+    text-align: left;
+    padding: 10px 20px;
+    margin-bottom: 5rem;
+    display: table-cell;
+}
+.Team{
+    border-top: 5px solid;
+    border-top-color: hsl(0, 78%, 62%);
+    box-shadow: 3px 7px 5px 0px;
+}
+
+.supervisor{
+    border-top: 5px solid;
+    border-top-color: hsl(180, 62%, 55%);
+    box-shadow: 3px 7px 5px 0px;
+    margin-top: 150px;
+ }
+ .karma{
+         border-top:5px solid;
+         border-top-color: hsl(34, 97%, 64%);
+         box-shadow: 3px 7px 5px 0px;
+     }
+.calculator{
+         border-top: 5px solid;
+         border-top-color: hsl(212, 86%, 64%);
+         box-shadow: 3px 7px 5px 0px;
+         margin-top: 150px;
+     }
+.group{
+    width:85% ;
+    margin: 30px auto;
+    text-align: left;
+}
+.img{
+    position: initial;
+    margin-left: 88%;
+    align-content: right;
+}
+/*.middle{
+
+    display: block;
+}*/ 
