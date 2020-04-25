@@ -1,0 +1,71 @@
+.logo{
+    width: 85%;
+    margin: auto;
+    height: 405px;
+}
+.container{
+    max-width: 75%;
+    background-color: antiquewhite;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    padding: 0 15px;
+    height: 500px;
+    margin-top: 79px;
+}
+img{
+    margin-left: 5px;
+    margin-bottom: 32px;
+
+}
+h1{
+    font-family: sans-serif;
+}
+span{
+    font-family: sans-serif;
+    font-weight: 100;
+    -webkit-text-fill-color: burlywood;
+}
+p{
+    -webkit-text-fill-color: burlywood;
+}
+input#email{
+    height: 33px;
+    border-radius: 16px;
+    border-color: bisque;
+    border-style: groove;
+    width: 278px;
+}
+form{width: 302px;}
+#body{
+    margin: 0;
+}
+.image{
+    margin-right: 30px;
+    align-items: right;
+    align-content: right;
+    margin-left: 22px;
+	height: 499px;
+}
+.content{
+    text-align: inherit;
+    margin-left: 82px;
+    margin-right: 237px;
+}
+button {
+    height: 37px;
+    border-radius: 16px;
+    border-style: hidden;
+    width: 58px;
+    background-color: darksalmon;
+    display: inline-flex;
+    margin-left: -46px;
+    margin-bottom: 9px;
+    padding-left:19px;
+    padding-top: 4px;
+}
+.inputImg{
+    align-items: center;
+    margin-bottom:12px;
+}
+   
