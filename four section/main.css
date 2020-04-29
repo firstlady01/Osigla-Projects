@@ -22,14 +22,15 @@ div{
     border-radius: 5px;
     height:200px;
     text-align: left;
-    padding: 10px 20px;
+    padding: 10px 36px;
     margin-bottom: 5rem;
-    display: table-cell;
+
 }
 .Team{
     border-top: 5px solid;
     border-top-color: hsl(0, 78%, 62%);
     box-shadow: 3px 7px 5px 0px;
+    display: block;
 }
 
 .supervisor{
@@ -37,11 +38,14 @@ div{
     border-top-color: hsl(180, 62%, 55%);
     box-shadow: 3px 7px 5px 0px;
     margin-top: 150px;
+    display: block;
+    width: 387px;
  }
  .karma{
          border-top:5px solid;
          border-top-color: hsl(34, 97%, 64%);
          box-shadow: 3px 7px 5px 0px;
+         display: block;
      }
 .calculator{
          border-top: 5px solid;
@@ -59,7 +63,7 @@ div{
     margin-left: 88%;
     align-content: right;
 }
-/*.middle{
-
-    display: block;
-}*/ 
+.middle{
+    width: 50%;
+    display: grid;
+} 
