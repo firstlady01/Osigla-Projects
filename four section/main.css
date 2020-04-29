@@ -24,7 +24,7 @@ div{
     text-align: left;
     padding: 10px 36px;
     margin-bottom: 5rem;
-
+    display: flex;
 }
 .Team{
     border-top: 5px solid;
@@ -52,6 +52,7 @@ div{
          border-top-color: hsl(212, 86%, 64%);
          box-shadow: 3px 7px 5px 0px;
          margin-top: 150px;
+         display: block;
      }
 .group{
     width:85% ;
@@ -61,7 +62,6 @@ div{
 .img{
     position: initial;
     margin-left: 88%;
-    align-content: right;
 }
 .middle{
     width: 50%;
