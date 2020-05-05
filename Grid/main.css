@@ -14,15 +14,12 @@ body{
     display: grid;
     padding-left:38px;
     display: grid;
-    
-}
+    }
 .body{
-    
-    border-top-left-radius: 5px;
-    border: 2px solid;
-    border-color:hsl(204, 14%, 93%);
-    
-}
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        background-color: white;
+   }
 .body p{
     color: darkgray;
 }
@@ -38,7 +35,7 @@ body{
 }
 .left{
     background-color: hsl(179, 62%, 43%);
-    border-bottom-left-radius: 0;
+    border-bottom-left-radius:10px;
     color: hsl(204, 43%,93%);
     float: left;
     height:287px;
@@ -47,8 +44,7 @@ body{
 }
 .left h3{
     color: hsl(204, 43%, 93%);
-    
-}
+    }
 span{
     font-weight: 100;
     font-size: large;
@@ -67,8 +63,7 @@ button{
 }
 .right{
     background-color: rgba(44, 186, 184, 0.9);
-    border-bottom-left-radius: 5px;
-    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 10px;
     margin-top:-20px;
     height:288px;
 
